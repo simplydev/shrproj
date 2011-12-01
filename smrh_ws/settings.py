@@ -21,7 +21,6 @@ INSTALLED_APPS = (
     'djangotoolbox',
     'autoload',
     'dbindexer',
-    'polls',
     'tabs',
     #'gdata.docs.client',
     #'django.contrib.staticfiles',
